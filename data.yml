@@ -1,0 +1,54 @@
+#- presenter: MJ
+#  category: Basketball
+#  presentations:
+#    - Take It Personal
+#    - How to win 6 titles
+#- presenter: Kamil
+#  categories:
+#  - name: Basketball
+#    presentations:
+#      - Who is the GOAT
+#  - name: Lego
+#    presentations:
+#      - Star Wars
+#      - Middle Ages
+#- presenter: Kobe Bryant
+#  category: Basketball
+#  presentations:
+#    - Dedication makes dreams come true
+- presenter: Z
+  category: DS
+  presentations:
+    - Science
+    - Data
+    - Magic
+    - Presentation
+- presenter: Kamil
+  categories:
+  - name: Frontend
+    presentations:
+      - Who is the GOAT
+  - name: Python
+    presentations:
+      - basic
+      - backend
+- presenter: Mike
+  categories:
+    - name: DS
+      presentations:
+        - ML
+    - name: Python
+      presentations:
+        - Decorator
+        - OOP
+- presenter: L
+  categories:
+    - name: Python
+      presentations:
+        - API Backend
+- presenter: M
+  categories:
+    - name: Frontend
+      presentations:
+        - API Frontend
+        - Typescript
